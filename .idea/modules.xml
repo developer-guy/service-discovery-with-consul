@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/parentpom.iml" filepath="$PROJECT_DIR$/parentpom.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-1/service-1.iml" filepath="$PROJECT_DIR$/service-1/service-1.iml" />
     </modules>
