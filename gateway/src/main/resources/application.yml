@@ -1,0 +1,13 @@
+zuul:
+ prefix: /api
+ routes:
+  microservice:
+    path: /service/**
+    serviceId: microservice
+spring:
+   application:
+     name: zuul-proxy
+   cloud:
+    consul:
+      host: localhost
+      port: 8500
